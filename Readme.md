@@ -27,8 +27,10 @@ matplotlib
 ## Exemples
 
 ### Below there are 2 examples of the code result.
-##### Example 1 : IoU 3D: 0.2769   IoU 2D: 0.5169
+##### Example 1 : 
+##### **IoU 3D**: 0.2769   **IoU 2D**: 0.5169
 ![Example 1](images/image1.png)
 
-##### Example 2 : IoU 3D: 0.1423   IoU 2D: 0.2434
+##### Example 2 : 
+##### **IoU 3D**: 0.1423   **IoU 2D**: 0.2434
 ![Example 2](images/image2.png)
